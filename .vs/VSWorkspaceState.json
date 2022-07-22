@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\firstproject",
+    "\\firstproject\\finance",
+    "\\firstproject\\firstproject",
+    "\\firstproject\\firstproject\\__pycache__",
+    "\\firstproject\\shop",
+    "\\firstproject\\shop\\templates",
+    "\\firstproject\\shop\\templates\\home",
+    "\\myVenv",
+    "\\myVenv\\Include",
+    "\\myVenv\\Lib",
+    "\\myVenv\\Scripts"
+  ],
+  "SelectedNode": "\\firstproject\\shop\\templates\\home\\product_update.html",
+  "PreviewInSolutionExplorer": false
+}
